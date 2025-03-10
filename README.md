@@ -1,2 +1,2 @@
 # FormApp
-Alloows one to fill a form
+Allows one to fill a form
